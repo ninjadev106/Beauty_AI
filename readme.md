@@ -1,6 +1,4 @@
-# 爱美丽 Beauty
-
-[简体中文](./readme_cn.md)
+# Beauty AI
 
 ## Features
 
@@ -134,15 +132,11 @@ we use two tech to explain result: lime and shap(recommend)
 
 1.redesign the face report, do not use AI explain framework but combine small face part scores.
 
-2.face score explain（已添加点位和身体部位对应名称）；
-(使用传统切割手段 和 
-胶囊图网络Capsule GNN 对比使用 https://github.com/benedekrozemberczki/CapsGNN
- https://github.com/brjathu/deepcaps
- )
+2.face score explain
 
 3.use lbph in android to detect skin type
 
-4.use semantic structural features（识别特定皮肤纹理等）
+4.use semantic structural features
 
 ### DEV:
 
@@ -169,8 +163,6 @@ Directory description:
 
 ## reference
 
-《女性美容美体小百科》
-
 https://wenku.baidu.com/view/b10e711ba58da0116c1749e6.html
 
 https://wenku.baidu.com/view/29392bbb9fc3d5bbfd0a79563c1ec5da50e2d6eb.html
@@ -194,14 +186,4 @@ https://arxiv.org/abs/1801.06345v1
 
 Understanding Beauty via Deep Facial Features:
 https://arxiv.org/pdf/1902.05380.pdf
-
-
-## Welcome contributions
-
-
-QQ group: 740807335
-
-wechat:
-
-![wechat](img/wechat.png)
 
